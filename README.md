@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">My Gallery</h1>
+<h1 align="center">Interior Consultant</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Dev challenges</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://ahammad204.github.io/My-gallary/">
+    <a href="https://ahammad204.github.io/interior-consultant/">
       Live Link
     </a>
     <span> | </span>
-    <a href="https://github.com/Ahammad204/My-gallary">
-      Github Repo
+    <a href="https://legacy.devchallenges.io/solutions/Ig7zeejP4i0IU7U3d4wi">
+      Solution
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
     </a>
   </h3>
@@ -36,9 +36,9 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co/NrrWvYf/ahammad204-github-io-My-gallary.png)
+![screenshot](https://i.ibb.co/hdv8MkV/Screenshot-2024-06-14-201151.png)
 
-If Image is not working click [Here](https://i.ibb.co/NrrWvYf/ahammad204-github-io-My-gallary.png)
+If Image is not working click [Here](https://i.ibb.co/hdv8MkV/Screenshot-2024-06-14-201151.png)
 
 ### Built With
 
@@ -46,13 +46,14 @@ If Image is not working click [Here](https://i.ibb.co/NrrWvYf/ahammad204-github-
 
 - [HTML](https://html.com/)
 - [CSS](https://www.w3schools.com/css/)
+- [JAVASCRIPT](https://www.javascript.com/)
 
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
