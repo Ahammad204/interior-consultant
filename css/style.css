@@ -40,6 +40,44 @@
     display: none;
   }
 
+  /* Banner section design */
+  .banner-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 0px;
+    
+  }
+  .banner-img img {
+    width: 800px;
+    height: 500px;
+  }
+  .banner-content img {
+    width: 24px;
+    height: 24px;
+  }
+  .banner-content h1 {
+    font-size: 48px;
+    font-family: 'Lora';
+    font-weight: 500;
+    margin-bottom: 40px;
+  }
+  .banner-content p {
+    font-size: 24px;
+    margin-bottom: 40px;
+    line-height: 30px;
+  }
+  .banner-content span {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .more{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+  }
+
   @media only screen and (min-width: 200px) and (max-width: 576px){
     
 /* Navbar style */
@@ -66,4 +104,15 @@
     align-items: center;
     gap: 40px;
 }
+
+  /* Banner section design */
+  .banner-section{
+    flex-direction: column;
+    
+  }
+  .banner-img img {
+    width: 100%;
+    height: 280px;
+    margin-top: 40px;
+  }
   }
